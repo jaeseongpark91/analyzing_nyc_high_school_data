@@ -19,10 +19,10 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.x installer.
 
-###Code
+### Code
 All the code is in the notebook analyzing_nyc_school_data.ipynb.
 
-###Run
+### Run
 In a terminal or command window, navigate to the top-level project directory titanic_survival_exploration/ (that contains this README) and run one of the following commands:
 
 jupyter notebook analyzing_nyc_school_data.ipynb
@@ -31,5 +31,5 @@ or
 ipython notebook analyzing_nyc_school_data.ipynb
 This will open the Jupyter Notebook software and project file in your web browser.
 
-###Data
+### Data
 The datasets used in this project is included in the folder schools. This dataset is provided by Dataquest.io.
